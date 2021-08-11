@@ -23,7 +23,7 @@ _[Mariposa SPCA](https://mariposa-spca-khusanov-m-r.netlify.app/)_ - Designed by
 
 - Build with help of Vuejs framework
 - Options API implemented in this website
-- Non-responsive (PC users in target as design created only)
+- Non-responsive (the design was intended for PC users)
 - Re-used section with logic operations
 - SCSS style with BEM technology structre
 
