@@ -7,7 +7,7 @@ Current respository is 2nd part of Web-Development which include 10 websites bui
 
 To open and see websites, please follow steps below:
 
-**Note: Nodejs should be installed before typing code in your IDE terminal**
+**Note: You should install Node js before following the instructions**
 
 1. Download repository
 2. Open folder with website name
