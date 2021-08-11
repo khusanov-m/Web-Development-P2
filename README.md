@@ -21,7 +21,7 @@ To open and see websites, please follow steps below:
 
 _[Mariposa SPCA](https://mariposa-spca-khusanov-m-r.netlify.app/)_ - Designed by [Darío Figueroa](https://dribbble.com/shots/5101621-Mariposa-SPCA-Dribbble-Design-Challenge) and Built by Mukhammad Khojiakbar Khusanov
 
-- Build with help of Vuejs framework
+- Build with help of Vuejs v3.x.x framework
 - Options API implemented in this website
 - Non-responsive (the design was intended for PC users)
 - Re-used section with logic operations
