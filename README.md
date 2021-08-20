@@ -5,7 +5,7 @@ Current respository is 2nd part of Web-Development which include 10 websites bui
 
 **Instructions**
 
-To open and see websites, please follow steps below:
+To open and see websites in youe own machine, please follow steps below:
 
 **Note: You should install Node js before following the instructions**
 
