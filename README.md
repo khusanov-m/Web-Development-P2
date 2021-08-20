@@ -17,7 +17,18 @@ To open and see websites, please follow steps below:
 
 **Chronology of repository**
 
-## New updates: 11.08.2021
+## New updates: 20.08.2021
+
+_[Medical Dashboard](https://med-dashboard-khusanov-m-r.netlify.app/)_ - Designed by [Denis Volkoff](https://www.figma.com/file/CVz5zSAUjnUsgzf3OY4bkI/Medical-Dashboard?node-id=0%3A1) and Built by Mukhammad Khojiakbar Khusanov
+
+- Build with help of Vuejs v3.x.x framework
+- Options API implemented in this website
+- Non-responsive (the design was intended for PC users)
+- Re-used section with logic operations
+- Animations on ui elements
+- SCSS style with BEM technology structre
+
+## Date: 11.08.2021
 
 _[Mariposa SPCA](https://mariposa-spca-khusanov-m-r.netlify.app/)_ - Designed by [Darío Figueroa](https://dribbble.com/shots/5101621-Mariposa-SPCA-Dribbble-Design-Challenge) and Built by Mukhammad Khojiakbar Khusanov
 
